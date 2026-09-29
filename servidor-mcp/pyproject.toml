@@ -1,0 +1,11 @@
+[project]
+name = "central-de-salas"
+version = "1.0.0"
+description = "Servidor MCP que expõe as salas de reunião da Hill Valley Tech (desafio A Ponte)"
+requires-python = ">=3.10"
+dependencies = [
+    "mcp==2.2.0",
+]
+
+[tool.uv]
+package = false

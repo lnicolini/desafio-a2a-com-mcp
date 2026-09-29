@@ -1,0 +1,9 @@
+[project]
+name = "agente-central-de-salas"
+version = "1.0.0"
+description = "Agente A2A que reserva salas: host MCP por dentro, servidor A2A por fora (desafio A Ponte)"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.uv]
+package = false
